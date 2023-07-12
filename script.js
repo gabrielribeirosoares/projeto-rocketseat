@@ -11,7 +11,7 @@ function toggleMode() {
         img.setAttribute('alt', 'Imagem de Gabriel Ribeiro, com barba, óculos escuro, e camiseta de cor verde limão')
     }
     else {
-        img.setAttribute('alt', 'assets/meu-avatar.png')
+        img.setAttribute('src', 'assets/meu-avatar.png')
         img.setAttribute('alt', 'Imagem de Gabriel Ribeiro, com barba, óculos de grau, e camiseta de cor verde limão')
 
     }
